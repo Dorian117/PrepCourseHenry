@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Repositorio creado en el modulo 2 del prep course de Henry
+Mi nombre es Sergio y me gusta mi apodo Dorian
